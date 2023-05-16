@@ -3,7 +3,7 @@ html {
   width: 100%;
 }
 
-body {
+body { /* this determines my background color for my site */
   background-color: #6692c5;
 }
 
@@ -15,7 +15,7 @@ header {
   padding-left: 50px;
 }
 
-h1 {
+h1 { /* I chose to make my headers and paragraphs all the same font family and aligned centered */
   font-family:Arial, Geneva, Helvetica, sans-serif;
   color:#FFFBF1;
   text-align: center;
@@ -41,7 +41,7 @@ p {
   margin-bottom: 10px;
  }
 
-img {
+img { /* I wanted a border radius so that my image has rounded edges */
   border-radius: 8px;
   display: block;
   margin-left: auto;
